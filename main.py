@@ -73,9 +73,9 @@ if __name__ == "__main__":
     torch.manual_seed(args.seed)
     np.random.seed(args.seed)
 
-    state_dim = 6
-    action_dim = 1
-    max_action = 1
+    state_dim = 
+    action_dim = 
+    max_action = 
 
     kwargs = {
         "state_dim": state_dim,
